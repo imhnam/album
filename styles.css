@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+
+#gallery img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+}
+
+#music {
+    text-align: center;
+    margin: 20px;
+}
+
+#wishes {
+    text-align: center;
+    margin: 20px;
+}
