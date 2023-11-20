@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     // Array of wishes
-    const wishes = ["Chúc bạn một ngày vui vẻ!", "Hạnh phúc luôn đến với bạn!"];
+    const wishes = ["Yêu em là đúng, không sai", "Lời này là một, không hai"];
 
     // Get the wishes section
     const wishesSection = document.getElementById("wishes");
